@@ -1,2 +1,2 @@
 # YelpCamp
-Web Developer Bootcamp YelpCamp Website
+Colt Steele's Web Developer Bootcamp YelpCamp Website
